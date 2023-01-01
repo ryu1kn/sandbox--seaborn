@@ -8,6 +8,8 @@ packages = [{include = "sandbox_seaborn"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+seaborn = "^0.12.2"
+jupyterlab = "^3.5.2"
 
 
 [build-system]
